@@ -1,21 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Binary</title>
-    <link>https://binary0905.github.io/</link>
-    <description>Recent content on Binary</description>
+    <title>读书笔记 on Binary</title>
+    <link>https://binary0905.github.io/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/</link>
+    <description>Recent content in 读书笔记 on Binary</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 16 Feb 2022 14:09:00 +0800</lastBuildDate><atom:link href="https://binary0905.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>About</title>
-      <link>https://binary0905.github.io/about/</link>
-      <pubDate>Sat, 19 Feb 2022 13:16:17 +0800</pubDate>
-      
-      <guid>https://binary0905.github.io/about/</guid>
-      <description>读书、写字、思考 哲学、文学</description>
-    </item>
-    
+    <lastBuildDate>Wed, 16 Feb 2022 14:09:00 +0800</lastBuildDate><atom:link href="https://binary0905.github.io/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>读书笔记 2022-02-16</title>
       <link>https://binary0905.github.io/posts/reading/2022/02/16/</link>
@@ -98,24 +89,6 @@
     </item>
     
     <item>
-      <title>碎碎念 2021-12-09</title>
-      <link>https://binary0905.github.io/posts/self-talking/2021/12/09/</link>
-      <pubDate>Thu, 09 Dec 2021 00:00:00 +0800</pubDate>
-      
-      <guid>https://binary0905.github.io/posts/self-talking/2021/12/09/</guid>
-      <description>有闲暇时间我要做什么？ 怎么让自己有闲暇时间？ 怎么尽快不必为自下而上作痛苦的挣扎（个人糊口和家庭生计）？ 怎么做到有能力承担闲暇（有能力对纯粹是</description>
-    </item>
-    
-    <item>
-      <title>阅读文摘 2021-11-27</title>
-      <link>https://binary0905.github.io/posts/reading/2021/11/27/</link>
-      <pubDate>Sat, 27 Nov 2021 01:43:00 +0800</pubDate>
-      
-      <guid>https://binary0905.github.io/posts/reading/2021/11/27/</guid>
-      <description>人说：林深时见鹿，海蓝时见鲸，梦醒时见你。 可实际：林深时雾起，海蓝时浪涌，梦醒时夜续。 不见鹿，不见鲸，也不见你。 但终究：鹿踏雾而来，鲸随浪而</description>
-    </item>
-    
-    <item>
       <title>读书笔记 2021-11-05</title>
       <link>https://binary0905.github.io/posts/reading/2021/11/05/</link>
       <pubDate>Fri, 05 Nov 2021 12:59:00 +0800</pubDate>
@@ -140,42 +113,6 @@
       
       <guid>https://binary0905.github.io/posts/reading/2021/10/18/</guid>
       <description>[美] 莫提默·J. 艾德勒 / 查尔斯·范多伦《如何阅读一本书》 阅读就像滑雪一样，做得很好的时候，像一个专家在做的时候，滑雪跟阅读一样都是很优美又</description>
-    </item>
-    
-    <item>
-      <title>碎碎念 2021-04-30</title>
-      <link>https://binary0905.github.io/posts/self-talking/2021/04/30/</link>
-      <pubDate>Fri, 30 Apr 2021 00:00:00 +0800</pubDate>
-      
-      <guid>https://binary0905.github.io/posts/self-talking/2021/04/30/</guid>
-      <description>加缪说：”想要快乐，就一定不能太关注别人。“ 阅读让我学会如何去恰当地表达、描述，也让我看到别人的生活态度，这些都是值得我去学习、感悟的。</description>
-    </item>
-    
-    <item>
-      <title>碎碎念 2021-04-03</title>
-      <link>https://binary0905.github.io/posts/self-talking/2021/04/04/</link>
-      <pubDate>Sat, 03 Apr 2021 00:00:00 +0800</pubDate>
-      
-      <guid>https://binary0905.github.io/posts/self-talking/2021/04/04/</guid>
-      <description>听大伙聊着这边清明节会吃到的东西。 我想起挺久没去拜祭奶奶的了。 奶奶是我第一位亏欠太多、没来得及回报的长辈。 若真有来世，请奶奶一定要给我报答的</description>
-    </item>
-    
-    <item>
-      <title>碎碎念 2021-03-30</title>
-      <link>https://binary0905.github.io/posts/self-talking/2021/03/30/</link>
-      <pubDate>Tue, 30 Mar 2021 00:00:00 +0800</pubDate>
-      
-      <guid>https://binary0905.github.io/posts/self-talking/2021/03/30/</guid>
-      <description>人认识一事物，分两步。 一、眼看或手摸等感官感知； 二、用已有的知识去处理、加工。 所以，哪一步都可能会让自己得出错误的结论。 警惕被自己已有的知识</description>
-    </item>
-    
-    <item>
-      <title>碎碎念 2021-03-13</title>
-      <link>https://binary0905.github.io/posts/self-talking/2021/03/13/</link>
-      <pubDate>Sat, 13 Mar 2021 00:00:00 +0800</pubDate>
-      
-      <guid>https://binary0905.github.io/posts/self-talking/2021/03/13/</guid>
-      <description>这一年半来，真的快速成长了，不狭隘，改变了很多。 希望能早日回归正常生活，接受考验。 我有勇气去改变原来的生活方式，愿意真正地努力。 而不是一边不</description>
     </item>
     
   </channel>
