@@ -1,12 +1,39 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>读书笔记 on Binary</title>
+    <title>读书笔记 on 猫十三</title>
     <link>https://binary0905.github.io/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/</link>
-    <description>Recent content in 读书笔记 on Binary</description>
+    <description>Recent content in 读书笔记 on 猫十三</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Mar 2022 12:30:00 +0800</lastBuildDate><atom:link href="https://binary0905.github.io/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 25 Mar 2022 12:22:00 +0800</lastBuildDate><atom:link href="https://binary0905.github.io/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>读书笔记 2022-03-25</title>
+      <link>https://binary0905.github.io/posts/reading/2022/03/25/</link>
+      <pubDate>Fri, 25 Mar 2022 12:22:00 +0800</pubDate>
+      
+      <guid>https://binary0905.github.io/posts/reading/2022/03/25/</guid>
+      <description>杨绛 《我们仨》 他从被子侧边伸出半只手，动着指头，让我们握握。 阿圆坐在床尾抱着他的脚，他还故意把脚动动。 我们仨人又相聚了。 不用说话，都觉得心上</description>
+    </item>
+    
+    <item>
+      <title>读书笔记 2022-03-23</title>
+      <link>https://binary0905.github.io/posts/reading/2022/03/23/</link>
+      <pubDate>Wed, 23 Mar 2022 12:30:00 +0800</pubDate>
+      
+      <guid>https://binary0905.github.io/posts/reading/2022/03/23/</guid>
+      <description>杨绛 《我们仨》 我转侧了半夜等锺书醒来，就告诉他我做了一个梦，如此这般；于是埋怨他怎么一声不响地撇下我自顾自走了。 锺书并不为我梦中的他辩护，只</description>
+    </item>
+    
+    <item>
+      <title>读书笔记 2022-03-22</title>
+      <link>https://binary0905.github.io/posts/reading/2022/03/22/</link>
+      <pubDate>Tue, 22 Mar 2022 12:30:00 +0800</pubDate>
+      
+      <guid>https://binary0905.github.io/posts/reading/2022/03/22/</guid>
+      <description>[英]罗伯特·戴博德 《蛤蟆先生去看心理医生》 “人们太容易让重要的事件就这么过去，忘记关注或为它们庆祝，也许是因为我们通常都只在事后才明白它们</description>
+    </item>
+    
     <item>
       <title>读书笔记 2022-03-21</title>
       <link>https://binary0905.github.io/posts/reading/2022/03/21/</link>
@@ -293,15 +320,6 @@
       
       <guid>https://binary0905.github.io/posts/reading/2021/10/18/</guid>
       <description>[美] 莫提默·J. 艾德勒 / 查尔斯·范多伦《如何阅读一本书》 阅读就像滑雪一样，做得很好的时候，像一个专家在做的时候，滑雪跟阅读一样都是很优美又</description>
-    </item>
-    
-    <item>
-      <title>读书笔记 2022-03-22</title>
-      <link>https://binary0905.github.io/posts/reading/2022/03/22/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://binary0905.github.io/posts/reading/2022/03/22/</guid>
-      <description>[英]罗伯特·戴博德 《蛤蟆先生去看心理医生》 “人们太容易让重要的事件就这么过去，忘记关注或为它们庆祝，也许是因为我们通常都只在事后才明白它们</description>
     </item>
     
   </channel>
